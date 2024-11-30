@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Death
+  - PostProcessing
+  - Finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Traps
+    uniqueID: 1788995157
+    locked: 0
+  - name: Ground
+    uniqueID: 1337907067
+    locked: 0
+  - name: Plants
+    uniqueID: 1735767519
+    locked: 0
+  - name: Player
+    uniqueID: 1523640707
+    locked: 0
